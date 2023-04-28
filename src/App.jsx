@@ -30,7 +30,7 @@ function App() {
     <div>
       <Card style={{ maxWidth: 450, margin: "o auto", padding: "20px 5px" }}>
         <CardContent>
-          <Typography gutterBottom variant="h5">
+          <Typography gutterBottom variant="h4">
             CONTACT US
           </Typography>
           <Typography
