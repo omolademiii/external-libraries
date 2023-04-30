@@ -28,7 +28,9 @@ function App() {
   };
   return (
     <div>
-      <Card style={{ maxWidth: 450, margin: "o auto", padding: "20px 5px" }}>
+      <Card
+        style={{ maxWidth: 450, margin: "100px 500px", padding: "20px 5px" }}
+      >
         <CardContent>
           <Typography gutterBottom variant="h4">
             CONTACT US
